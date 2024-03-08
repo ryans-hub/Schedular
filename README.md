@@ -7,4 +7,4 @@ This project is using provided source code. The objective is to create a schedul
 
 ## Deployed Link
 
-
+https://ryans-hub.github.io/Schedular/
